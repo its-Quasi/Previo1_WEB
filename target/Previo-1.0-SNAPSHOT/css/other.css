@@ -1,0 +1,21 @@
+.regresar{
+  background-color: rgb(109, 128, 194) !important;
+  border: none;
+  color: white !important;
+  margin-top: 30px;
+  border-radius: 15px;
+  padding: 5px 10px;
+  text-decoration: none !important;
+}
+.container{
+  height: 800px;
+  width: auto;
+
+}
+.tarjeta{
+  margin: auto auto !important;
+}
+
+#piechart{
+  margin: 0 auto !important;
+}
